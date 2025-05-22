@@ -71,7 +71,4 @@ This project was built as a counterpart to an earlier Android game. Comparing de
 ## 👨‍🎓 Author
 
 **Mark Brough**  
-Student Roll No: 00628924  
-Module: Mobile Development (T2)  
 University of Salford  
-Module Leader: Dr. Ian Drumm
